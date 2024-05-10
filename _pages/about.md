@@ -14,8 +14,9 @@ My primary research area is empirical financial intermediation and macrofinance,
 Working Papers
 ======
 
-Corporate Loan Spreads and Economic Activity with Anthony Saunders, Sascha Steffen, Daniel Streitz (Accepted at RFS) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3717358)
-Abstract: 
+**Corporate Loan Spreads and Economic Activity** with Anthony Saunders, Sascha Steffen, Daniel Streitz (Accepted at RFS) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3717358)  
+
+Abstract: <br>
 We investigate the predictive power of loan spreads for forecasting business cycles, specifically focusing on more constrained, intermediary-reliant firms. We introduce a novel loan-market-based credit spread constructed using secondary corporate loanmarket prices over the 1999 to 2023 period. Loan spreads significantly enhance the prediction of macroeconomic outcomes, outperforming other credit-spread indicators. The paper also explores the underlying mechanisms, differentiating between borrower fundamentals and financial frictions, with evidence suggesting that supply-side frictions are a decisive factor in loan spreads’ forecasting ability.
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
