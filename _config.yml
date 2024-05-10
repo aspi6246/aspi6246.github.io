@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile_1.png"
+  avatar           : "profile_1.png"
   name             : "Alessandro Spina"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in Finance, 
