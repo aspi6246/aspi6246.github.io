@@ -11,8 +11,13 @@ I am a PhD student at Copenhagen Business School, Department of Finance. I will 
 
 My primary research area is empirical financial intermediation and macrofinance, with a particular focus on the syndicated corporate loan market. 
 
-A data-driven personal website
+Working Papers
 ======
+
+Corporate Loan Spreads and Economic Activity with Anthony Saunders, Sascha Steffen, Daniel Streitz (Accepted at RFS) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3717358)
+Abstract: 
+We investigate the predictive power of loan spreads for forecasting business cycles, specifically focusing on more constrained, intermediary-reliant firms. We introduce a novel loan-market-based credit spread constructed using secondary corporate loanmarket prices over the 1999 to 2023 period. Loan spreads significantly enhance the prediction of macroeconomic outcomes, outperforming other credit-spread indicators. The paper also explores the underlying mechanisms, differentiating between borrower fundamentals and financial frictions, with evidence suggesting that supply-side frictions are a decisive factor in loan spreads’ forecasting ability.
+
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
