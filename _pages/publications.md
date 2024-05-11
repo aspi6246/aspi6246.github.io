@@ -11,7 +11,7 @@ author_profile: true
 Published Papers
 ======
 
-**Corporate Loan Spreads and Economic Activity** with Anthony Saunders, Sascha Steffen, Daniel Streitz (Accepted at RFS) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3717358)  
+**Corporate Loan Spreads and Economic Activity** with [Anthony Saunders](https://www.stern.nyu.edu/faculty/bio/anthony-saunders), [Sascha Steffen](https://www.sascha-steffen.de/), [Daniel Streitz](https://sites.google.com/site/streitzdaniel/) (Accepted at RFS) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3717358)  
 
 **Abstract**: We investigate the predictive power of loan spreads for forecasting business cycles, specifically focusing on more constrained, intermediary-reliant firms. We introduce a novel loan-market-based credit spread constructed using secondary corporate loanmarket prices over the 1999 to 2023 period. Loan spreads significantly enhance the prediction of macroeconomic outcomes, outperforming other credit-spread indicators. The paper also explores the underlying mechanisms, differentiating between borrower fundamentals and financial frictions, with evidence suggesting that supply-side frictions are a decisive factor in loan spreads’ forecasting ability.
 
