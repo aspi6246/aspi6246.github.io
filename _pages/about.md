@@ -12,7 +12,7 @@ I am a PhD student at Copenhagen Business School, Department of Finance. I will 
 My primary research area is empirical financial intermediation and macrofinance, with a particular focus on the syndicated corporate loan market. 
 
 
-
+[download]({{ site.baseurl }}{% link file.txt %})
 
 
 
