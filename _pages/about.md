@@ -12,9 +12,6 @@ I am a PhD student at Copenhagen Business School, Department of Finance. I will 
 My primary research area is empirical financial intermediation and macrofinance, with a particular focus on the syndicated corporate loan market. 
 
 
-[[Curriculum Vitae]]({{ site.baseurl }}{/files/Alessandro_CV_July2023.pdf})
-
-<a href="aspi6246.github.io/files/Alessandro_CV_July2023.pdf" target="_blank"> CV.</a>
 
 
 Working Papers
