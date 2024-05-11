@@ -14,7 +14,7 @@ My primary research area is empirical financial intermediation and macrofinance,
 
 [[Curriculum Vitae]]({{ site.baseurl }}{/files/Alessandro_CV_July2023.pdf})
 
-
+<a href="aspi6246.github.io/files/Alessandro_CV_July2023.pdf" target="_blank">PDF.</a>
 
 
 Working Papers
