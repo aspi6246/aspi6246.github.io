@@ -5,8 +5,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
-<meta name="google-site-verification" content="AFsuK5WbwgBCzyFnNgKdIoOcZ0adklmk8DHcIawb1DM" />
 ---
 
 I am a PhD student at the Department of Finance, Copenhagen Business School (CBS). I will be joining the University of Technology Sydney (UTS) as a Lecturer (Asst. Professor) in Finance in September 2024.  
