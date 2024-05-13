@@ -8,7 +8,7 @@ author_profile: true
 <br />
 
 
-Published Papers
+Forthcoming papers
 ======
 
 **Corporate Loan Spreads and Economic Activity** with [Anthony Saunders](https://www.stern.nyu.edu/faculty/bio/anthony-saunders), [Sascha Steffen](https://www.sascha-steffen.de/), [Daniel Streitz](https://sites.google.com/site/streitzdaniel/) (Accepted at RFS) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3717358)  
@@ -18,7 +18,7 @@ Published Papers
 
 <br />
 
-Working Papers
+Working papers
 ======
 
 **Heterogenous Expectation Formation** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4729915)  
