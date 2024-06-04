@@ -5,6 +5,7 @@
 
 Academic Pages is a Github Pages template for academic websites.
 
+This is a copy of Academic Pages for Alessandro Spina's personal website.
 
 # Getting Started
 
