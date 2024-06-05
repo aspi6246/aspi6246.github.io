@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the [Department of Finance, Copenhagen Business School (CBS)](www.cbs.dk/en/staff/aspfi). I will be joining the University of Technology Sydney (UTS) as a Lecturer (Asst. Professor) in Finance in September 2024.  
+I am a PhD student at the [Department of Finance, Copenhagen Business School (CBS)](https://www.cbs.dk/en/staff/aspfi). I will be joining the University of Technology Sydney (UTS) as a Lecturer (Asst. Professor) in Finance in September 2024.  
 
 My primary research area is empirical financial intermediation, monetary policy, and macrofinance, with a particular focus on the syndicated corporate loan market. 
 
