@@ -28,7 +28,7 @@ author:
                       Copenhagen Business School"
   location         : "Copenhagen, Denmark"
   employer         : "Copenhagen Business School"
-  uri              : "https://aspi6246.github.io"
+  uri              : #"https://aspi6246.github.io"
   email            : "asp.fi@cbs.dk" 
 
   # Academic websites
