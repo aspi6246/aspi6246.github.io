@@ -1,1 +1,26 @@
+---
+title: 'Inflation expectations and CBO announcement days'
+date: 2024-07-02
+permalink: /posts/blog_post_1/
+tags:
+  - Inflation expectations
+  - Inflation options
+  - Fiscal policy
+  - Fiscal Theory of the Price Level
+---
 
+In this post I ask a simple question, do expectations of future inflation change on Congressional Budget Office (CBO) announcement days? Specifically, I examine the announcement of the CBO’s budget deficit forecasts, which occur semi-annually. 
+
+Why would announcements about the future deficit forecasts affect expected inflation? Advocates of the Fiscal Theory of the Price Level (FTPL), (see https://johnhcochrane.blogspot.com/2024/01/fiscal-narratives-for-us-inflation.html ), would argue that the price level adjusts so that the real value of nominal debt (nominal debt / price level) is equal to the expected present value of primary surpluses. A large deficit, that people do not expect to be fully repaid, causes inflation. To the extent that CBO announcement days contain new information about the future path of primary surpluses/deficits, one would expect inflation expectations to react to this new information. 
+
+There are multiple ways to measure inflation expectations. Below I use a high-frequency measure of inflation expectations derived by Sebastian Luber in his working paper, “Option-Implied Inflation Distributions”. In this paper he derives the entire distribution of future implied inflation for three different time horizons (5, 15, and 20 years) using inflation options (zero-coupon caps and floors). Using inflation options offers distinct advantages over other financial instruments such as Treasury Inflation-Protected Securities (TIPS) and inflation swaps, which are only able to capture the first moment of the distribution. The distributions are derived under the risk-neutral measure. Figure 1 below plots the probability that inflation will be greater than 4% in the next 5 years and 20years in Figure 2. 
+
+
+Headings are cool
+======
+
+You can have many headings
+======
+
+Aren't headings cool?
+------
