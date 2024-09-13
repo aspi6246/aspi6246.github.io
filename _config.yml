@@ -24,12 +24,12 @@ author:
   avatar           : "profile_2.PNG"
   name             : "Alessandro Spina"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate in Finance, 
-                      Copenhagen Business School"
-  location         : "Copenhagen, Denmark"
-  employer         : "Copenhagen Business School"
+  bio              : "Lecturer (Assistant Professor) in Finance, 
+                      University of Technology Sydney"
+  location         : "Sydney, Australia"
+  employer         : "University of Technology Sydney"
   uri              : #"https://aspi6246.github.io"
-  email            : "asp.fi@cbs.dk" 
+  email            : "alessandro.spina@uts.edu.au" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
