@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer(Assistant Professor) in Finance at the Department of Finance, University of Technology Sydney (UTS). I completed my PhD at the [Department of Finance, Copenhagen Business School (CBS)](https://www.cbs.dk/en/staff/aspfi).
+I am a Lecturer (Assistant Professor) in Finance at the Department of Finance, University of Technology Sydney (UTS). I completed my PhD at the [Department of Finance, Copenhagen Business School (CBS)](https://www.cbs.dk/en/staff/aspfi).
 
 My primary research area is empirical financial intermediation, monetary policy, and macrofinance, with a particular focus on the syndicated corporate loan market. 
 
