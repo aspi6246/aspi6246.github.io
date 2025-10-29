@@ -33,6 +33,8 @@ Working Papers
 
     Abstract: We provide evidence that changes in equity price uncertainty generate predictable flows in equity futures, that we link to the hedging activities of equity options dealers. For the market of S\&P 500 options, we find that (i) due to their inventory of options, option dealers are on average “long vanna,” i.e., an increase in implied volatility requires selling of equities to maintain (delta) hedges, (ii) dealer vanna predicts the high-frequency correlation between S\&P 500 returns and VIX changes, and (iii) dealer vanna predicts S\&P 500 returns around economic announcements. Finding (iii) emerges since, by their nature, economic announcements involve changes in uncertainty, thus prompting derivatives dealers to trade in stocks to adjust their hedges. We discuss implications for the validity of event studies.
 
+4. The (social) cost of strategic default: with Sascha Steffen and Daniel Streitz
+   
 <br>
 
 Other Writing
