@@ -32,7 +32,9 @@ Working Papers
 
 Abstract: Professional forecasts of U.S. monetary policy display persistent and large cross-sectional dispersion. What drives this disagreement? I distinguish between two sources: (i) heterogeneity in macroeconomic outlooks and (ii) heterogeneity in perceived monetary policy rules. Using monthly Blue Chip Financial Forecasts (BCFF) panels, I estimate forecaster- and time-specific perceived policy rules. I construct a new disagreement measure that isolates cross-sectional dispersion in perceived policy coefficients. I find disagreement is time-varying and systematic: it rises during shifts in policy frameworks. Using a counterfactual that holds macro outlooks fixed across forecasters, I show that a sizable fraction of funds rate forecast dispersion reflects disagreement about the policy rule, not just about the economy. Finally, I document that higher policy-rule disagreement amplifies asset-price sensitivity to FOMC announcements.
 
+2. Option Hedging Flows Around Volatility Spikes
 
+Abstract:   We provide evidence that changes in equity price uncertainty generate predictable flows in equity futures, that we link to the hedging activities of equity options dealers. For the market of S\&P 500 options, we find that, $(i)$ due to their inventory of options, option dealers are on averge ``long vanna'', i.e. an increases in implied volatility requires selling of equities to maintain (delta) hedges, $(ii)$ dealer vanna predicts the high-frequency correlation between S\&P 500 returns and VIX changes, and $(iii)$ dealer vanna predicts S\&P 500 returns around economic announcements. Finding $iii$ emerges, since, by their nature, economic announcements involve changes in uncertainty, thus prompting derivatives dealers to trade in stocks to adjust their hedges. We discuss implications for the validity of event studies.
 
 
 <br>
