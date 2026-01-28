@@ -1,0 +1,27 @@
+---
+title: Frameworks: Part I
+date: 2025-01-28
+permalink: /posts/2026/1/blog-post-10/
+tags:
+
+---
+
+
+Frameworks: Part I
+Frameworks are important. Without them the world makes no sense. A framework (or mental model) is a small set of disciplined ideas that lets you organize facts and argue coherently about how the world works. A framework is more than a set of opinions or stories. They are tools for thinking— a way of imposing structure on a complicated world.
+
+In the realm of medicine, before we understood germs it was only natural to assume illness was caused by the wrath of the “gods”, “curses” or “ghosts in your blood” and bloodletting seemed like a natural solution. Enter modern medicine with its framework for understanding disease through germ theory.  We no longer relied on stories of disease being caused by omnipotent beings or vengeful fairies but had a clear mechanism that could be tested. 
+
+The same applies in economic and finance. Without a solid framework for thinking about what causes a given phenomenon (inflation, interest rates, recessions, etc), it’s only natural that people will resort to their own ad hoc explanations for what “causes” these phenomena. That’s where you get errors: confusing correlation for causation, mistaking an accounting identity for an economic mechanism, or treating a compelling story as if it were evidence. The field of finance and economics should be able to provide people with simple (but not simplistic) frameworks for how to think about things like interest rates, prices, inflation, so that we can think, talk and discuss issues related to them in a common language. 
+
+Questions like, why do house prices vary over time or across cities? Why do prices of goods and services vary over time? Why do stock prices go up and down? Why are interest rates high in one country and low in another? All need a framework from which to properly understand them. So much debate in the media stems from a lack of common framework.
+
+Take stock prices. If you asked the average person on the street, they would give you all sorts of strange ad-hoc explanations for what moves stock prices. Finance gives you a compact, surprisingly useful starting point: a stock price is the market’s best guess of future cashflows, discounted foAr time and risk (a topic for a future post). That single sentence immediately disciplines the conversation. If stocks fall, you are basically saying at least one of three things changed: expected cashflows, the risk-free rate, or the compensation investors demand for bearing risk. You can still disagree—strongly—about which of those moved, but you’re no longer explaining prices with “ghosts in the blood” type thinking. 
+
+Having a framework does not mean that we can predict the future or that frameworks never change. Frameworks adapt and evolve over time as does our understanding. Physics has its own framework for thinking about how atoms and the fundamental forces in the universe work (it’s called the Lambda-CDM model). It’s the result of the cumulative work of centuries of scientists studying the universe and trying to develop a framework that explains the behaviour of everything we see from electromagnetism to the structure of galaxies. However, this framework is almost certainly incomplete (the current framework cannot reconcile gravity with quantum mechanics).
+
+Frameworks give us a conceptual structure to organise our thinking, understand the world and frame certain questions to improve the framework. They do not give us a crystal ball to predict the future.
+
+This series is my attempt to articulate those frameworks. It’s not that this knowledge is new. Economics and finance, as professions, have accumulated a set of useful frameworks over decades. But we often do a poor job of communicating them. We forget that people who are not immersed in thinking about these topics every day, can look at economics and finance from the outside, and conclude, “these people have no idea what the f$^k they are talking about”. When we don’t have a shared framework, we default to intuitive stories. Sometimes they’re right; often they’re not.  My premise is that it’s a communication issue, not a content issue. 
+
+In this series I’m going to lay out a small set of “workhorse” frameworks for thinking about concepts like prices, inflation, interest rates, and other ideas in economics and finance. The goal is to build a common language that helps you spot bullshit faster, argue more rigorously, and think more clearly.
