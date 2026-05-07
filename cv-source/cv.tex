@@ -1,0 +1,150 @@
+\documentclass[11pt,a4paper]{article}
+
+% ==========================================================================
+% Alessandro Spina --- Curriculum Vitae
+% Source: cv.tex
+% Compile: pdflatex cv.tex   (run twice for correct page-count in header)
+% Output: cv.pdf  -->  copy/rename into ../files/Alessandro_CV_<date>.pdf
+% ==========================================================================
+
+\usepackage[a4paper,margin=1in,top=0.9in,bottom=1in]{geometry}
+\usepackage{tabularx}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{lastpage}
+
+\hypersetup{colorlinks=true, urlcolor=blue, linkcolor=blue}
+
+% ----- Date stamp shown in the page header (update on each revision) -----
+\newcommand{\cvdate}{May 2026}
+
+% ----- Section format: bold + horizontal rule below ----------------------
+\setcounter{secnumdepth}{0}
+\titleformat{\section}[hang]{\Large\bfseries}{}{0em}{}[\vspace{2pt}\titlerule]
+\titlespacing{\section}{0pt}{1.4em}{0.6em}
+
+% ----- Page header (suppressed on page 1) --------------------------------
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{Alessandro Spina --- Curriculum Vitae}
+\fancyhead[R]{\cvdate\ --- \thepage\ of \pageref{LastPage}}
+\renewcommand{\headrulewidth}{0pt}
+
+\fancypagestyle{firstpage}{%
+  \fancyhf{}\renewcommand{\headrulewidth}{0pt}%
+}
+
+% ----- CV entry: bold institution / italic right-aligned date / detail ---
+\newcommand{\cventry}[3]{%
+  \noindent\textbf{#1}\hfill\textit{#2}\par
+  #3\par\medskip
+}
+
+% ----- List layout -------------------------------------------------------
+\setlist[enumerate]{leftmargin=*, itemsep=4pt, topsep=2pt}
+
+\begin{document}
+\thispagestyle{firstpage}
+
+% =========================================================================
+\begin{center}
+{\Huge\bfseries Alessandro Spina}
+\end{center}
+
+\vspace{0.6em}
+
+% Contact block: 2 columns, equal width
+\noindent
+\begin{tabularx}{\textwidth}{@{}X X@{}}
+Department of Finance               & \href{https://www.alessandro-spina.com/}{https://www.alessandro-spina.com/} \\
+UTS Business School                  & \href{mailto:alessandro.spina@uts.edu.au}{alessandro.spina@uts.edu.au} \\
+University of Technology Sydney      & \\
+Ultimo NSW 2007, Australia           & \\
+\end{tabularx}
+
+% =========================================================================
+\section{Education}
+
+\cventry{University of Technology Sydney}{2024 -- present}{Assistant Professor / Lecturer in Finance}
+
+\cventry{Copenhagen Business School}{2018 -- 2024}{Center for Financial Frictions (FRIC)\\PhD in Financial Economics}
+
+\cventry{University of Sydney}{2022 Nov -- Dec}{Visiting Scholar}
+
+\cventry{Copenhagen Business School}{2016 -- 2018}{Masters Advanced Economics and Finance, OECON}
+
+\cventry{University of Sydney}{2006 -- 2008}{BA Econometrics and Finance}
+
+% =========================================================================
+\section{Research Interests}
+
+Empirical macro-finance, Financial Intermediation, Monetary Policy
+
+% =========================================================================
+\section{Research Papers}
+
+\begin{enumerate}
+\item \textbf{Corporate Loan Spreads and Economic Activity} (2022) (With Anthony Saunders, Sascha Steffen and Daniel Streitz). [Accepted RFS]
+
+\textbf{Abstract}: We use secondary corporate loan-market prices to construct a novel loan-market-based credit spread. This measure has considerable predictive power for economic activity across macroeconomic outcomes in both the U.S. and Europe and captures unique information not contained in public market credit spreads. Loan-market borrowers are compositionally different and particularly sensitive to supply-side frictions as well as financial frictions that emanate from their own balance sheets. This evidence highlights the joint role of financial intermediary and borrower balance-sheet frictions in understanding macroeconomic developments and enriches our understanding of which type of financial frictions matter for the economy.
+
+\textbf{Presentations}: NZFM Conference (2022), Danmark Nationalbank, AFA (2022), Central Bank of Ireland Workshop (2021), 11th ifo Conference on Macroeconomics and Survey Data (2021), ABFER 8th Annual Conference (2021), SFS Cavalcade (2021), FIRS (2021), Frankfurt School Finance and Management: Regulating Financial Markets Conference (2019).
+
+\item \textbf{Market Segmentation and Cross-predictability} (2023) (sole author).
+
+\textbf{Abstract}: I examine how information diffuses slowly across financial markets by testing for cross-predictability in asset prices. I find an increase in loan spreads of upstream industries can predict an increase in loan spreads of downstream industries, but only in the post-2010 period. The emergence of predictability coincides with an increase in institutional investor activity in the loan market. Furthermore, I find cross-predictability within equity returns has disappeared over the same period. These results indicate that information diffusion varies across asset classes and this, in part, has been influenced by changes in the structure of markets.
+
+\item \textbf{Heterogenous Expectation Formation} (2022) (sole author).
+
+\textbf{Abstract}: I use forecasts from the Wall Street Journal economic survey to study how respondents develop expectations of macroeconomic variables. Existing studies have typically assumed that forecasts from any given firm are coming from the same individual. In reality, employee turnover within surveyed firms is common. By tracking the turnover in survey respondents, I find that the degree of underreaction or overreaction measured in forecasts is influenced by the relative experience of the respondent. Furthermore, I find differences in respondent's subjective perception of the Federal Reserve's reaction function. These findings show that heterogeneity amongst respondents cannot be ignored when studying expectation formation.
+
+\textbf{Presentations}: Australasian Finance and Banking Conference (2022).
+\end{enumerate}
+
+% =========================================================================
+\section{Service}
+
+\begin{enumerate}
+\item Reviewer, Journal of Banking and Finance \hfill 2021
+\item Reviewer, Journal of Banking and Finance \hfill 2020
+\item Discussant, NZFM Conference \hfill 2022
+\item Discussant, AFBC Conference \hfill 2022
+\item PhD Representative on PhD School Board \hfill 2020--2023
+\item PhD Representative at Finance Department Forum \hfill 2020--2023
+\item PhD Brown Bag Coordinator \hfill 2021--2023
+\item Advised Masters' Theses \hfill 2020
+\end{enumerate}
+
+% =========================================================================
+\section{Teaching}
+
+\cventry{Corporate Finance (BA)}{2023--2024}{Lecturer}
+\cventry{Corporate Finance (BA)}{2020--2022}{Teaching assistant to Ulf Nielsson}
+\cventry{Corporate Finance (BA)}{2022}{Teaching assistant to Rama Seth}
+\cventry{Macroeconomics (BA)}{2018--2019}{Teaching assistant to Anna Morin}
+\cventry{Microeconomics (BA)}{2017--2019}{Teaching assistant to Martin Lau}
+
+% =========================================================================
+\section{Industry Experience}
+
+\cventry{Jigsaw Strategic Research, Australia}{2015}{Market Research Consultant}
+\cventry{Macquarie Bank, Australia}{2009 -- 2014}{Market Research Analyst}
+\cventry{Ernst\&Young, Australia}{2008}{Audit Internship}
+
+% =========================================================================
+\section{References}
+
+\noindent
+\begin{tabularx}{\textwidth}{@{}X X@{}}
+\textbf{David Lando} & \textbf{Daniel Streitz} \\
+Professor of Finance, Center Leader of FRIC & Professor of Economics / Senior Research Advisor \\
+Copenhagen Business School & University of Jena / IWH Halle \\
+Solbjerg Plads 3 & Carl-Zeiß-Straße 3 \\
+DK-2000 Frederiksberg & 07743 Jena \\
+Denmark & Germany \\
+\href{mailto:dl.fi@cbs.dk}{dl.fi@cbs.dk} & \href{mailto:daniel.streitz@uni-jena.de}{daniel.streitz@uni-jena.de} \\
+\end{tabularx}
+
+\end{document}
