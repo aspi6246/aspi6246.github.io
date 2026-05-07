@@ -29,7 +29,7 @@ Open Source
 
 Two public repositories I maintain:
 
-1. **[Claude-Code-Presentation](https://github.com/aspi6246/Claude-Code-Presentation)** — a collection of Claude Code tools, personas, and presentation skills.
+1. **[Claude-Code-Presentation](https://github.com/aspi6246/Claude-Code-Presentation)** — a collection of Claude Code tools, personas, and presentations.
 
 2. **[Claude-Code-Skills-for-Academics](https://github.com/aspi6246/Claude-Code-Skills-for-Academics)** — custom Claude Code skills tailored for empirical research: data profiling, paper review, R-code conventions, and more.
 
