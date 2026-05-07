@@ -14,13 +14,13 @@ I use [Claude Code](https://www.anthropic.com/claude-code) — Anthropic's termi
 Talks
 ======
 
-I've given two department brownbags walking through how I use Claude Code in practice. Slides and source are public.
+I've given two department brownbags walking through how I use Claude Code in practice. Slides are public.
 
 1. **Claude Code for Academics.** What Claude Code is, the thinking-partner philosophy, `CLAUDE.md` as institutional memory, the Referee 2 pattern, cross-language replication, and sandbox safety.  
-   [[Slides (PDF)]](https://github.com/aspi6246/BrownBag-Claude/blob/main/main.pdf) [[Source]](https://github.com/aspi6246/BrownBag-Claude)
+   [[Slides (PDF)]](https://github.com/aspi6246/Claude-Code-Presentation/blob/main/Presentations/main.pdf)
 
 2. **Claude Code Skills for Academics.** Building reusable Claude Code skills (`split-pdf`, `paper-editor`, `code-audit`, `wrap-up`, `skill-writing-guide`), and end-to-end tooling setup.  
-   [[Slides (PDF)]](https://github.com/aspi6246/Brownbag-Claude---Part-3/blob/main/main.pdf) [[Source]](https://github.com/aspi6246/Brownbag-Claude---Part-3)
+   [[Slides (PDF)]](https://github.com/aspi6246/Claude-Code-Presentation/blob/main/Presentations%20Skills/Brownbag_Claude_Skills.pdf)
 
 <br />
 
