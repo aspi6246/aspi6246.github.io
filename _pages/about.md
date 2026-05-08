@@ -33,7 +33,7 @@ Working Papers
 
     Abstract: Asset returns around scheduled economic events, such as FOMC announcements, are commonly attributed to information revelation or risk premia. We show that part of these returns reflects predictable hedging flows by derivative dealers. Using CBOE trade data for S&P 500 options, we construct dealer vanna, the sensitivity of dealers’ aggregate option-inventory delta to changes in implied volatility. Dealer vanna is negative on average, implying that dealers must buy stocks into FOMC announcements in order to remain (delta) hedged. Exploiting time-series variation, we show that a one-standard-deviation decrease in prior-day dealer vanna predicts a 25 basis-point higher FOMC announcement-day return. Consistent with our proposed channel from expected volatility changes to derivative dealer hedging flows, we find that dealer vanna predicts signed E-mini futures volume on FOMC days. Our findings show that even narrow event windows contain systematic price pressure from intermediary rebalancing, which can distort the interpretation of event study research
 
-3. The (social) cost of strategic default: with Sascha Steffen and Daniel Streitz
+3. The (social) cost of strategic default: with [Sascha Steffen](https://www.sascha-steffen.de/) and [Daniel Streitz](https://sites.google.com/site/streitzdaniel/)
    
 <br>
 
