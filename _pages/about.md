@@ -42,3 +42,4 @@ Other Writing
 
 1. **What does the Mineral Resources crisis tell us about the state of corporate governance in Australia?** [[The Conversation]](https://theconversation.com/what-does-the-mineral-resources-crisis-tell-us-about-the-state-of-corporate-governance-in-australia-243038)
 2. **Claude Code for Academics** — see the [Claude Code](/claude-code/) page for talks, slides, and open-source repos.
+3. **Non-finance writing** — [deepskynotes.com](https://www.deepskynotes.com)
