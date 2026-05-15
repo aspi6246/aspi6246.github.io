@@ -39,3 +39,5 @@ Related Reading
 ======
 
 Scott Cunningham's [Substack series on Claude Code for empirical research](https://causalinf.substack.com/) was a big influence on how I started using these tools.
+
+Gen Li and Siyang Liu maintain a [curated collection of Claude Code learning resources for economics and finance researchers](https://gen-li.notion.site/339195e07a238020b8aae6b5a1661f08?v=339195e07a2380c0ad01000c92c92011), continuously updated.
