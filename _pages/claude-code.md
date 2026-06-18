@@ -14,12 +14,15 @@ I use [Claude Code](https://www.anthropic.com/claude-code) — Anthropic's termi
 Talks
 ======
 
-I've given two department brownbags walking through how I use Claude Code in practice. Slides are public.
+Slides from recent talks on using Claude Code in academic research. All decks are public.
 
-1. **Claude Code for Academics.** What Claude Code is, the thinking-partner philosophy, `CLAUDE.md` as institutional memory, the Referee 2 pattern, cross-language replication, and sandbox safety.  
+1. **Claude Code for Academics: An AI Agent for Empirical Research** *(3rd APSA Workshop on Quantitative Methods, ANU, June 2026).* Refined version of the brownbag below. What Claude Code is, the thinking-partner philosophy, `CLAUDE.md` as institutional memory, the Referee 2 pattern, cross-language replication, and sandbox safety.  
+   [[Slides (PDF)]](/files/Alessandro_APSA_Part1_2026.pdf)
+
+2. **Claude Code for Academics** *(UTS Finance Brownbag).* Earlier department-talk version of the APSA deck above.  
    [[Slides (PDF)]](https://github.com/aspi6246/Claude-Code-Presentation/blob/main/Presentations/main.pdf)
 
-2. **Claude Code Skills for Academics.** Building reusable Claude Code skills (`split-pdf`, `paper-editor`, `code-audit`, `wrap-up`, `skill-writing-guide`), and end-to-end tooling setup.  
+3. **Claude Code Skills for Academics** *(UTS Finance Brownbag, Part 3).* Building reusable Claude Code skills (`split-pdf`, `paper-editor`, `code-audit`, `wrap-up`, `skill-writing-guide`), and end-to-end tooling setup.  
    [[Slides (PDF)]](https://github.com/aspi6246/Claude-Code-Presentation/blob/main/Presentations%20Skills/Brownbag_Claude_Skills.pdf)
 
 <br />
