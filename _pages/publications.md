@@ -27,6 +27,8 @@ Work In Progress
 
     Abstract: When volatility moves, option dealers must trade the S&P 500 to stay hedged. We measure this forced trade from observed dealer positions. Dealer Vanna, the sensitivity of dealers’ inventory delta to implied volatility, is persistently positive, so rising volatility forces the average book to sell $183 million per VIX point. Dealer Vanna predicts (i) the daily correlation between S&P 500 returns and VIX changes, (ii) the E-mini hedge flow that produces it, arriving within 15 minutes, and (iii) announcement-day returns around FOMC statements, which reverse the next day. Narrow event windows do not remove predictable intermediary trading demand.
 
+    Presentations: 9th Yale Junior Finance Conference, Alpine Finance Summit 2026, SAFE Asset Pricing Workshop, 15th FIRN Annual Conference.
+
 3. The (social) cost of strategic default: with [Sascha Steffen](https://www.sascha-steffen.de/) and [Daniel Streitz](https://sites.google.com/site/streitzdaniel/)
 
 4. When Credit Goes Private: with [Sascha Steffen](https://www.sascha-steffen.de/) and [Daniel Streitz](https://sites.google.com/site/streitzdaniel/)  
