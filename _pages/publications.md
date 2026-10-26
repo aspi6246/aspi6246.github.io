@@ -14,6 +14,8 @@ Published Research
 
     Abstract: We investigate the predictive power of loan spreads for forecasting business cycles, specifically focusing on more constrained, intermediary-reliant firms. We introduce a novel loan-market-based credit spread constructed using secondary corporate-loan-market prices over the 1999 to 2023 period. Loan spreads significantly enhance the prediction of macroeconomic outcomes, outperforming other credit-spread indicators. The paper also explores the underlying mechanisms, differentiating between borrower fundamentals and financial frictions, with evidence suggesting that supply-side frictions are a decisive factor in loan-spread forecasting ability.
 
+    Presentations: NZFM Conference (2022), Danmark Nationalbank, AFA (2022), Central Bank of Ireland Workshop (2021), 11th ifo Conference on Macroeconomics and Survey Data (2021), ABFER 8th Annual Conference (2021), SFS Cavalcade (2021), FIRS (2021), Frankfurt School Finance and Management: Regulating Financial Markets Conference (2019).
+
 <br />
 
 Work In Progress
