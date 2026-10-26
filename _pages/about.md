@@ -34,6 +34,10 @@ Working Papers
     Abstract: When volatility moves, option dealers must trade the S&P 500 to stay hedged. We measure this forced trade from observed dealer positions. Dealer Vanna, the sensitivity of dealers’ inventory delta to implied volatility, is persistently positive, so rising volatility forces the average book to sell $183 million per VIX point. Dealer Vanna predicts (i) the daily correlation between S&P 500 returns and VIX changes, (ii) the E-mini hedge flow that produces it, arriving within 15 minutes, and (iii) announcement-day returns around FOMC statements, which reverse the next day. Narrow event windows do not remove predictable intermediary trading demand.
 
 3. The (social) cost of strategic default: with [Sascha Steffen](https://www.sascha-steffen.de/) and [Daniel Streitz](https://sites.google.com/site/streitzdaniel/)
+
+4. When Credit Goes Private: with [Sascha Steffen](https://www.sascha-steffen.de/) and [Daniel Streitz](https://sites.google.com/site/streitzdaniel/)  
+
+    Abstract: Private credit has moved a large part of corporate lending away from the traded loan market. We ask what becomes of the information that the traded loan price carried. Business development companies report a value for every loan they hold, and we match these values to daily dealer quotes on traded loans. In early 2024, 87.7% of these lenders’ direct-loan borrowers had no quoted loan. The value reported for such a loan moves 0.36 times as much as a dealer quote when the loan market moves, does not catch up within a year, and gives little warning before the borrower gets into trouble, while the lost quote did. Yet the lenders’ own spreads sort borrower risk as well without a quote as with one. The information is not destroyed; it stays with the lender. The cost falls on the investors who buy and sell fund shares at the reported values.
    
 <br>
 
