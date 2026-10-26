@@ -41,6 +41,13 @@ Working Papers
    
 <br>
 
+Discussions
+======
+
+1. **Forecast Dispersion and the Price Impact of Macroeconomic News** by Samia Badidi — 2026 Melbourne Asset Pricing Meeting. [[Slides]](/files/Badidi_discussion_Spina.pdf)
+
+<br>
+
 Other Writing
 ======
 
